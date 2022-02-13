@@ -632,6 +632,7 @@ address {
   letter-spacing: 0.03em;
   color: var(--title-text-color);
   display: flex;
+  align-items: center;
   margin-top: 20px;
   margin-bottom: 30px;
 }
