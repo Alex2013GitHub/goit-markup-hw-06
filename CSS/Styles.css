@@ -501,6 +501,8 @@ address {
   margin-bottom: 9px;
 }
 
+
+/* ---------------modal--------------- */
 .backdrop{
   position: fixed;
   top: 0;
