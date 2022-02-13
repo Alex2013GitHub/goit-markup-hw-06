@@ -621,6 +621,11 @@ address {
   fill: var(--accent-color);
 } 
 
+.checkbox-field{
+  display: flex;
+  justify-content: center;
+}
+
 .modal-check-text{
   font-size: 14px;
   line-height: 1.71;
@@ -644,7 +649,6 @@ address {
 
 .modal-check-text{
   fill: transparent;
-
 }
 
 .modal-check:checked + .modal-check-text span{
